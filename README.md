@@ -1,6 +1,6 @@
 # Portfolio Website
 
-# A Personal Portfolio site built with HTML, CSS, JavaScript, and Bootstrap (and optional React.js), featuring:
+# A Personal Portfolio site built with HTML, CSS, JavaScript, and Bootstrap, featuring:
 
 -Light and Dark Mode
 
